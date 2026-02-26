@@ -1,5 +1,5 @@
 
-# Roblox DMX
+# DMX Protocol Bridge (Simulation) 
 
 This is a simple code I made to connect GrandMA2 through Art-Net (DMX) to Roblox Studio.
 
